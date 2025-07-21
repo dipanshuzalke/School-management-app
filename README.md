@@ -2,8 +2,7 @@
 
 A responsive, modern **Progressive Web App (PWA)** built using **AI-powered Bolt.new**, designed for students to manage and track academic activities like assignments, timetables, attendance, and more — with clean UI, animations, push notifications, and offline support.
 
-🔗 [Live Demo](https://your-live-link.vercel.app)  
-🔗 [Project on Bolt](https://bolt.new/your-project-link)
+🔗 [Live Demo](https://school-management-app-beta.vercel.app/)  
 
 ---
 
